@@ -38,6 +38,8 @@ and you delete the Task, although this deletes the task and subtask, it doesnt e
 
 
 
+Link to documentation: https://docs.google.com/document/d/1HU9sZ15p2n_qltfkZefgToJPW5AMSJyq8gBhzzseOvM/edit?usp=sharing
+
 
 
 
